@@ -7,6 +7,7 @@ Page Mage Panel App
 import panel as pn
 import pandas as pd
 import pymongo
+import hvplot.pandas
 
 
 
